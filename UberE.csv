@@ -1,0 +1,12 @@
+Task Name,ID,Leader,Start time,Deadline,Total time,Budget
+Choose a resturant,0,Will,0,5,5,0
+Choose food,1,Will,5,11,6,0
+Make order,2,Will,11,14,3,1
+Recive order,5,Chef,12,15,3,1
+Making food,6,Chef,15,25,10,30
+Delivery pick up,7,Uber,25,28,3,10
+Delivering,8,Uber,28,42,14,0
+Delivered,9,Uber,42,45,3,0
+Paid the bill,10,Will,43,46,3,295
+Eat the food,11,Ian,46,56,10,0
+Rate this service,12,Will,55,58,3,0

@@ -1,0 +1,9 @@
+Task Name,ID,Leader,Start time,Deadline,Total time,Budget
+Planning,0,Sam,0,5,5,0
+Survey,1,Sam,0,3,3,30
+Arrangement,2,Sam,5,10,5,100
+Analysis,3,Tod,6,10,4,0
+Design,4,Tod,10,13,3,0
+Development,5,Angus,12,22,10,200
+Testing,6,Tod,15,22,7,0
+Presentation,7,Sam,20,25,5,0
